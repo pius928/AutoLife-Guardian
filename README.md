@@ -1,7 +1,12 @@
 AutoLife Guardian
 
 Team: Team Sentinel AI  
-Hackathon them : AI AUTOMATION IN DECISION MAKING, MARCH 18-19, 2026  
+Hackathon them : AI AUTOMATION IN DECISION MAKING, MARCH 18-19, 2026 
+Group members:
+1. PIUS KAROKI - BSCCS/2024/47723
+2. STEPHEN OTIENDE - BBIT/2018/36596
+3. CHERONO BRENDA - BSCCS/2025/51567
+4. CARLTON ARIGA - BSCCS/2024/46228
 
 AutoLife Guardian is an AI-powered web application that prevents poor daily decisions by evaluating planned actions in real time. It analyzes the impact on money, time, and personal goals and responds with Approve, Deny, or Conditional guidance. Users can override decisions, but the system tracks consequences to help them build smarter habits.
 
